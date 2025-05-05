@@ -1,9 +1,5 @@
 # DSA
 
-# DSA Review Tracker
-
-Track the number of review sessions for Data Structures and Algorithms (DSA) topics to prepare for FAANG interviews.
-
 | Algorithm | Reviews |
 |-----------------------------|-------------------|
 | Array/String Manipulation   | 0                 |
