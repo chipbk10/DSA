@@ -1,27 +1,27 @@
 # DSA
 
-| Algorithm | Reviews |
-|-----------------------------|-------------------|
-| Array/String Manipulation   | 0                 |
-| Binary Search               | 1                 |
-| Two Pointers                | 0                 |
-| Sliding Window              | 0                 |
-| Depth-First Search (DFS)    | 0                 |
-| Breadth-First Search (BFS)  | 0                 |
-| Backtracking                | 0                 |
-| Dynamic Programming         | 0                 |
-| Divide and Conquer          | 0                 |
-| Union Find                  | 1                 |
-| Topological Sort            | 0                 |
-| Dijkstra’s Algorithm        | 0                 |
-| Heap/Priority Queue         | 0                 |
-| Hash Table/Hash Map         | 0                 |
-| Binary Tree                 | 0                 |
-| Binary Search Tree (BST)    | 0                 |
-| Trie                        | 0                 |
-| Stack                       | 0                 |
-| Queue                       | 0                 |
-| Linked List                 | 0                 |
-| Monotonic Stack/Queue       | 0                 |
-| Intervals                   | 0                 |
-| Bit Manipulation            | 0                 |
+| No | Algorithm | Reviews |
+|----|-----------------------------|-------------------|
+| 1  | Array/String Manipulation   | 0                 |
+| 2  | Binary Search               | 1                 |
+| 3  | Two Pointers                | 0                 |
+| 4  | Sliding Window              | 0                 |
+| 5  | Depth-First Search (DFS)    | 0                 |
+| 6  | Breadth-First Search (BFS)  | 0                 |
+| 7  | Backtracking                | 0                 |
+| 8  | Dynamic Programming         | 0                 |
+| 9  | Divide and Conquer          | 0                 |
+| 10 | Union Find                  | 1                 |
+| 11 | Topological Sort            | 0                 |
+| 12 | Dijkstra’s Algorithm        | 0                 |
+| 13 | Heap/Priority Queue         | 0                 |
+| 14 | Hash Table/Hash Map         | 0                 |
+| 15 | Binary Tree                 | 0                 |
+| 16 | Binary Search Tree (BST)    | 0                 |
+| 17 | Trie                        | 0                 |
+| 18 | Stack                       | 0                 |
+| 19 | Queue                       | 0                 |
+| 20 | Linked List                 | 0                 |
+| 21 | Monotonic Stack/Queue       | 0                 |
+| 22 | Intervals                   | 0                 |
+| 23 | Bit Manipulation            | 0                 |
