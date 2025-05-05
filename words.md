@@ -1,0 +1,2 @@
+- is **represented** by a **distinct** number from 1 to n (**in the range of** 1 to n)
+- 
