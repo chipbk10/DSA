@@ -5,6 +5,13 @@ for i, num in enumerate(nums):
   break
 ```
 
+## Dictionary
+
+```
+from Typing import Dict
+my_dict: Dict[str, int] = {}
+```
+
 ## Print
 ```
 x = 3
