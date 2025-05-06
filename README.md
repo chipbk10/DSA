@@ -19,7 +19,7 @@
 | 15 | Binary Tree                 | 0                 |
 | 16 | Binary Search Tree (BST)    | 0                 |
 | 17 | Trie                        | 0                 |
-| 18 | Stack                       | 0                 |
+| 18 | Stack                       | 1                 |
 | 19 | Queue                       | 0                 |
 | 20 | Linked List                 | 0                 |
 | 21 | Monotonic Stack/Queue       | 0                 |
