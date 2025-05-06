@@ -1,6 +1,10 @@
 # Monotonic
-- use stack or queue or deque
-- @Todo
+- maintain a sequence of elements in a monotonically increasing or monotonically decreasing order.
+
+# Application
+- finding the next/previous greater or smaller element.
+- computing ranges where an element is the minimum or maximum.
+- problems involving histograms, subarrays, or sliding windows.
   
 # Complexity
 
