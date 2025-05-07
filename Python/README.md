@@ -10,6 +10,7 @@ for i, num in enumerate(nums):
 ```python3
 from Typing import Dict
 my_dict: Dict[str, int] = {}
+my_dict["new_key"] = my_dict.get("new_key", 0) + 1 # get with default value
 ```
 
 ## Print
@@ -28,4 +29,10 @@ dp = [[0] * n for _ in range(m)]
 ## 1D array
 ```python3
 A[-1] # last element
+```
+## String
+```python3
+s = "hello world!"
+sub = s[:5] # "hello"
+sub = s[1:5] # "ello"
 ```
