@@ -36,3 +36,14 @@ s = "hello world!"
 sub = s[:5] # "hello"
 sub = s[1:5] # "ello"
 ```
+
+## Sort
+```python3
+A = ['cab', 'ca', 'b', 'c', 'a', 'ab']
+
+# sort in lexicographical order => ['a','ab','b','c','ca','cab']
+A.sort()
+
+# sort in lexicographical order but prioritize on length => ['a','b','c','ab','ca','cab']
+sorted(A, key=lamda s: (len(s), s))
+```
