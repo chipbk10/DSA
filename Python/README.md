@@ -52,4 +52,7 @@ A.sort()
 
 # sort in lexicographical order but prioritize on length => ['a','b','c','ab','ca','cab']
 sorted(A, key=lamda s: (len(s), s))
+
+# intervals sort by end value
+intervals.sort(key=lamda x: x[1])
 ```
