@@ -43,6 +43,11 @@ ord("a") # 97 (ascii to int)
 chr(97) # "a" (int to ascii)
 ```
 
+## Integer
+```python3
+float(`-inf`) # Integer.MIN_VALUE
+```
+
 ## Sort
 ```python3
 A = ['cab', 'ca', 'b', 'c', 'a', 'ab']
