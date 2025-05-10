@@ -37,6 +37,12 @@ sub = s[:5] # "hello"
 sub = s[1:5] # "ello"
 ```
 
+## Character
+```python3
+ord("a") # 97 (ascii to int)
+chr(97) # "a" (int to ascii)
+```
+
 ## Sort
 ```python3
 A = ['cab', 'ca', 'b', 'c', 'a', 'ab']
