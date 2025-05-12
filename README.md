@@ -6,8 +6,8 @@
 | 2  | Binary Search               | 2                 |
 | 3  | Two Pointers                | 0                 |
 | 4  | Sliding Window              | 0                 |
-| 5  | Depth-First Search (DFS)    | 0                 |
-| 6  | Breadth-First Search (BFS)  | 0                 |
+| 5  | Depth-First Search (DFS)    | 1                 |
+| 6  | Breadth-First Search (BFS)  | 1                 |
 | 7  | Backtracking                | 0                 |
 | 8  | Dynamic Programming         | 1                 |
 | 9  | Divide and Conquer          | 0                 |
