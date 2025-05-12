@@ -5,6 +5,12 @@ for i, num in enumerate(nums):
   break
 ```
 
+## Array
+```python3
+nums = [2, 4, 3, 5, 8, 9, 10]
+total_count = sum(1 for num in nums if num%2 == 0) # count all even numbers
+```
+
 ## Dictionary
 
 ```python3
