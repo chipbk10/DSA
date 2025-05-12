@@ -18,7 +18,7 @@
 | 14 | Hash Table/Hash Map         | 2                 |
 | 15 | Binary Tree                 | 0                 |
 | 16 | Binary Search Tree (BST)    | 1                 |
-| 17 | Trie                        | 1                 |
+| 17 | Trie                        | 2                 |
 | 18 | Stack                       | 1                 |
 | 19 | Queue                       | 1                 |
 | 20 | Linked List                 | 0                 |
