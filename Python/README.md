@@ -61,3 +61,17 @@ sorted(A, key=lamda s: (len(s), s))
 # intervals sort by end value
 intervals.sort(key=lamda x: x[1])
 ```
+
+## Queue
+```python3
+# we don't use a List to represent a Queue
+# because deleting the first element of a list requires shifting all other elements by one, requiring O(n) time
+from queue import Queue
+queue = Queue(maxSize=6)
+queue.put('a')
+queue.put('c')
+queue.put('b') # ['a', 'c', 'b']
+queue.qsize() # 3
+queue.full() # False
+queue.get() # 2 - ['c', 'b']
+```
