@@ -15,7 +15,7 @@
 | 11 | Topological Sort            | 0                 |
 | 12 | Dijkstra’s Algorithm        | 0                 |
 | 13 | Heap/Priority Queue         | 0                 |
-| 14 | Hash Table/Hash Map         | 1                 |
+| 14 | Hash Table/Hash Map         | 2                 |
 | 15 | Binary Tree                 | 0                 |
 | 16 | Binary Search Tree (BST)    | 1                 |
 | 17 | Trie                        | 1                 |
