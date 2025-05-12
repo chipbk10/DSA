@@ -9,8 +9,8 @@ for i, num in enumerate(nums):
 
 ```python3
 from typing import Dict
-my_dict: Dict[str, int] = {}
-my_dict["new_key"] = my_dict.get("new_key", 0) + 1 # get with default value
+d: Dict[str, int] = {}
+d["new_key"] = d.get("new_key", 0) + 1 # get with default value
 
 # provide a default value for all elements in Dict
 from collections import defaultdict
