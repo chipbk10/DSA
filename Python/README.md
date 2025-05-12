@@ -14,8 +14,8 @@ my_dict["new_key"] = my_dict.get("new_key", 0) + 1 # get with default value
 
 # provide a default value for all elements in Dict
 from collections import defaultdict
-d = defaultDict(int) # default value is 0
-d = defaultDict(list) # default value is an empty list
+d = defaultdict(int) # default value is 0
+d = defaultdict(list) # default value is an empty list
 
 ```
 
