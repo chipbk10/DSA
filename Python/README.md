@@ -58,6 +58,7 @@ chr(97) # "a" (int to ascii)
 ## Integer
 ```python3
 float('-inf') # Integer.MIN_VALUE
+float('inf') # Integer.MAX_VALUE
 ```
 
 ## Sort
