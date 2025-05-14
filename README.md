@@ -3,7 +3,7 @@
 | No | Algorithm | Reviews |
 |----|-----------------------------|-------------------|
 | 1  | Array/String Manipulation   | 1                 |
-| 2  | Binary Search               | 2                 |
+| 2  | Binary Search               | 3                 |
 | 3  | Two Pointers                | 1                 |
 | 4  | Sliding Window              | 1                 |
 | 5  | Depth-First Search (DFS)    | 1                 |
