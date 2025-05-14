@@ -66,7 +66,8 @@ float('inf') # Integer.MAX_VALUE
 A = ['cab', 'ca', 'b', 'c', 'a', 'ab']
 
 # sort in lexicographical order => ['a','ab','b','c','ca','cab']
-A.sort()
+A.sort() # sort in ascending order
+A.sort(reverse=True) # sort in descending order
 
 # sort in lexicographical order but prioritize on length => ['a','b','c','ab','ca','cab']
 sorted(A, key=lamda s: (len(s), s))
