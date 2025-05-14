@@ -16,8 +16,8 @@
 | 12 | Dijkstra’s Algorithm        | 0                 |
 | 13 | Heap/Priority Queue         | 0                 |
 | 14 | Hash Table/Hash Map         | 2                 |
-| 15 | Binary Tree                 | 0                 |
-| 16 | Binary Search Tree (BST)    | 1                 |
+| 15 | Binary Tree                 | 1                 |
+| 16 | Binary Search Tree (BST)    | 2                 |
 | 17 | Trie                        | 2                 |
 | 18 | Stack                       | 1                 |
 | 19 | Queue                       | 1                 |
