@@ -1,4 +1,4 @@
 - **Map Reduce**
   - [G4](https://leetcode.com/discuss/post/6104391/google-l4-phone-screen-sep-2024-reject-b-acr1/)
 - **Bucket Sort**
-  - [H-Index](https://leetcode.com/problems/h-index/description/) 
+  - [H-Index](https://leetcode.com/problems/h-index/description/)
