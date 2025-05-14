@@ -2,10 +2,10 @@
 
 | No | Algorithm | Reviews |
 |----|-----------------------------|-------------------|
-| 1  | Array/String Manipulation   | 0                 |
+| 1  | Array/String Manipulation   | 1                 |
 | 2  | Binary Search               | 2                 |
-| 3  | Two Pointers                | 0                 |
-| 4  | Sliding Window              | 0                 |
+| 3  | Two Pointers                | 1                 |
+| 4  | Sliding Window              | 1                 |
 | 5  | Depth-First Search (DFS)    | 1                 |
 | 6  | Breadth-First Search (BFS)  | 1                 |
 | 7  | Backtracking                | 0                 |
@@ -21,7 +21,7 @@
 | 17 | Trie                        | 2                 |
 | 18 | Stack                       | 1                 |
 | 19 | Queue                       | 1                 |
-| 20 | Linked List                 | 0                 |
+| 20 | Linked List                 | 1                 |
 | 21 | Monotonic Stack/Queue       | 2                 |
 | 22 | Intervals                   | 2                 |
 | 23 | Bit Manipulation            | 0                 |
