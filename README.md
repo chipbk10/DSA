@@ -21,7 +21,7 @@
 | 17 | Trie                        | 2                 |
 | 18 | Stack                       | 1                 |
 | 19 | Queue                       | 1                 |
-| 20 | Linked List                 | 1                 |
+| 20 | Linked List                 | 2                 |
 | 21 | Monotonic Stack/Queue       | 2                 |
 | 22 | Intervals                   | 2                 |
 | 23 | Bit Manipulation            | 1                 |
