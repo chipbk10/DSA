@@ -24,4 +24,4 @@
 | 20 | Linked List                 | 1                 |
 | 21 | Monotonic Stack/Queue       | 2                 |
 | 22 | Intervals                   | 2                 |
-| 23 | Bit Manipulation            | 0                 |
+| 23 | Bit Manipulation            | 1                 |
