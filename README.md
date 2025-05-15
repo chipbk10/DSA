@@ -25,3 +25,4 @@
 | 21 | Monotonic Stack/Queue       | 2                 |
 | 22 | Intervals                   | 2                 |
 | 23 | Bit Manipulation            | 1                 |
+| 24 | Design                      | 1                 |
