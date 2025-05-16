@@ -89,3 +89,8 @@ queue.qsize() # 3
 queue.full() # False
 queue.get() # 2 - ['c', 'b']
 ```
+
+## Tuple
+```python3
+(x,y): Tuple[int, int] = (1,2)
+```
