@@ -1,2 +1,3 @@
 - is **represented** by a **distinct** number from 1 to n (**in the range of** 1 to n)
 - **lexicographic order** is to sort based on dictionary alphabets
+- **chronologically** is to sort based on the occurence time order
