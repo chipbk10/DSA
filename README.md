@@ -9,7 +9,7 @@
 | 5  | Depth-First Search (DFS)    | 2                 |
 | 6  | Breadth-First Search (BFS)  | 2                 |
 | 7  | Backtracking                | 0                 |
-| 8  | Dynamic Programming         | 1                 |
+| 8  | Dynamic Programming         | 2                 |
 | 9  | Divide and Conquer          | 0                 |
 | 10 | Union Find                  | 1                 |
 | 11 | Topological Sort            | 0                 |
