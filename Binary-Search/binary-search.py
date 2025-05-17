@@ -1,6 +1,5 @@
 ## Find the smallest index that satisfies condition f
 
-```python3
 def f(x: int) -> bool:
   return True # or False
 
@@ -18,4 +17,4 @@ while start <= end:
 # after loop
 # start - the smallest index that satisfies the condition f
 # end - the last index that not satisfies the condition f
-```
+
