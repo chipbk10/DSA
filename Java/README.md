@@ -13,7 +13,7 @@ for (Map.Entry<String, Integer> entry: map.entrySet()) {
   System.out.println("key = " + entry.getKey() + " value = " + entry.getValue());
 }
 
-for (String key: map.getKeys()) {
+for (String key: map.keySet()) {
   System.out.println("key = " + key + " value = " + map.get(key));
 }
 ```
