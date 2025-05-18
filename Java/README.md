@@ -17,3 +17,9 @@ for (String key: map.keySet()) {
   System.out.println("key = " + key + " value = " + map.get(key));
 }
 ```
+
+## String
+```java
+int x = 3;
+String s = String.valueOf(x);
+```
