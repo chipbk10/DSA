@@ -23,3 +23,10 @@ for (String key: map.keySet()) {
 int x = 3;
 String s = String.valueOf(x);
 ```
+
+## StringBuilder
+```java
+StringBuilder sb = new StringBuilder()
+sb.append('a') // O(1)
+sb.setLength(sb.length() - 1); // O(1)
+```
