@@ -8,7 +8,7 @@
 | 4  | Sliding Window              | 1                 |
 | 5  | Depth-First Search (DFS)    | 2                 |
 | 6  | Breadth-First Search (BFS)  | 2                 |
-| 7  | Backtracking                | 0                 |
+| 7  | Backtracking                | 2                 |
 | 8  | Dynamic Programming         | 2                 |
 | 9  | Divide and Conquer          | 0                 |
 | 10 | Union Find                  | 1                 |
