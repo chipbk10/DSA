@@ -24,6 +24,9 @@ from collections import defaultdict
 d = defaultdict(int) # default value is 0
 d = defaultdict(list) # default value is an empty list
 
+# remove a key
+d.pop("key")
+
 ```
 
 ## Print
