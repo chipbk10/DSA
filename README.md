@@ -12,7 +12,7 @@
 | 8  | Dynamic Programming         | 2                 |
 | 9  | Divide and Conquer          | 0                 |
 | 10 | Union Find                  | 1                 |
-| 11 | Topological Sort            | 0                 |
+| 11 | Topological Sort            | 1                 |
 | 12 | Dijkstra’s Algorithm        | 0                 |
 | 13 | Heap/Priority Queue         | 0                 |
 | 14 | Hash Table/Hash Map         | 3                 |
