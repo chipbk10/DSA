@@ -14,7 +14,7 @@
 | 10 | Union Find                  | 1                 |
 | 11 | Topological Sort            | 1                 |
 | 12 | Dijkstra’s Algorithm        | 0                 |
-| 13 | Heap/Priority Queue         | 0                 |
+| 13 | Heap/Priority Queue         | 1                 |
 | 14 | Hash Table/Hash Map         | 3                 |
 | 15 | Binary Tree                 | 2                 |
 | 16 | Binary Search Tree (BST)    | 2                 |
