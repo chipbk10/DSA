@@ -30,3 +30,11 @@ StringBuilder sb = new StringBuilder()
 sb.append('a') // O(1)
 sb.setLength(sb.length() - 1); // O(1)
 ```
+
+## Others
+- **@Todo**: how to represent a negative number?
+  - The most significant bit (bit 31) is the sign bit: 0 for non-negative numbers, 1 for negative numbers.
+  - Negative numbers are represented by inverting the bits of the positive number and adding 1 (two's complement).
+- **Bit Manipulation**: **@Todo**
+  - XOR (^) 2 same numbers will be 0
+
