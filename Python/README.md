@@ -98,3 +98,11 @@ queue.get() # 2 - ['c', 'b']
 ```python3
 (x,y): Tuple[int, int] = (1,2)
 ```
+
+## Linked List
+```python3
+class ListNode:
+    def __init__(self, val: int = 0, next: 'ListNode' = None):
+        self.val = val
+        self.next = next
+```
