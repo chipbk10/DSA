@@ -106,3 +106,9 @@ class ListNode:
         self.val = val
         self.next = next
 ```
+
+## Exception
+```python3
+raise Exception('reason to fail')
+```
+
