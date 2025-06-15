@@ -111,4 +111,14 @@ class ListNode:
 ```python3
 raise Exception('reason to fail')
 ```
-
+## Switch Case
+```python3
+x = 10
+match x:
+  case 10:
+    print("It's 10")
+  case 20:
+    print("It's 20")
+  case _:
+    print("It's neither 10 nor 20")
+```
