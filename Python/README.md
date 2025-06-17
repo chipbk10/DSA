@@ -84,7 +84,7 @@ intervals.sort(key=lamda x: x[1])
 ```python3
 # we don't use a List to represent a Queue
 # because deleting the first element of a list requires shifting all other elements by one, requiring O(n) time
-from queue import Queue
+from queue import Queue # is designed for thread-safe operations. Consider to use `collections.deque` which is designed for single-threaded use
 queue = Queue(maxSize=6)
 queue.put('a')
 queue.put('c')
@@ -93,6 +93,14 @@ queue.qsize() # 3
 queue.full() # False
 queue.get() # 2 - ['c', 'b']
 ```
+
+## Deque
+from collections import deque
+q = deque() # is designed for single-threaded use
+q.append('a')
+q.append('b')
+q.popleft() # 'a' 
+
 
 ## Tuple
 ```python3
