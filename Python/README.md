@@ -95,11 +95,13 @@ queue.get() # 2 - ['c', 'b']
 ```
 
 ## Deque
+```python3
 from collections import deque
 q = deque() # is designed for single-threaded use
 q.append('a')
 q.append('b')
-q.popleft() # 'a' 
+q.popleft() # 'a'
+```
 
 
 ## Tuple
