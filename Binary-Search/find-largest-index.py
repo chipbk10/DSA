@@ -1,4 +1,4 @@
-## Find the smallest index that satisfies condition f
+## Find the largest index that satisfies condition f
 
 def f(x: int) -> bool:
   return True # or False
