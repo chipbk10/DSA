@@ -103,6 +103,11 @@ q.append('b')
 q.popleft() # 'a'
 ```
 
+## Heap
+```python3
+from heapq import heappush, heappop
+```
+@Todo
 
 ## Tuple
 ```python3
